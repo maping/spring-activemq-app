@@ -97,7 +97,6 @@ $ git push -u origin main
 $ cd springactivemqapp
 $ mvn clean package
 ```
-恭喜，你已经成功构建了一个 Java 应用！
 
 ## 4. Run application
 使用 Netbeans 打开应用目录，然后右键 .java，选择 Run File
