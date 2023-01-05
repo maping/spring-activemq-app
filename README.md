@@ -94,7 +94,7 @@ $ git push -u origin main
 
 ## 3. Compile application
 ```console
-$ cd activemqapp
+$ cd springactivemqapp
 $ mvn clean package
 ```
 恭喜，你已经成功构建了一个 Java 应用！
