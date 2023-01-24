@@ -1,4 +1,4 @@
-package xyz.javaneverdie.springactivemq.service;
+package xyz.javaneverdie.springactivemq.service.listener;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Service;

@@ -5,7 +5,7 @@ import org.springframework.context.support.AbstractApplicationContext;
 
 import xyz.javaneverdie.springactivemq.config.SpringConfig;
 import xyz.javaneverdie.springactivemq.service.TopicProducerService;
-import xyz.javaneverdie.springactivemq.service.TopicProducerServiceImpl;
+import xyz.javaneverdie.springactivemq.service.impl.TopicProducerServiceImpl;
 
 public class TopicProducerApp {
 

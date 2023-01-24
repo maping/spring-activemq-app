@@ -1,4 +1,4 @@
-package xyz.javaneverdie.springactivemq.service;
+package xyz.javaneverdie.springactivemq.service.impl;
 
 import javax.jms.JMSException;
 import javax.jms.Message;
@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.jms.core.MessageCreator;
 import org.springframework.stereotype.Service;
+import xyz.javaneverdie.springactivemq.service.QueueProducerService;
 
 @Service
 public class QueueProducerServiceImpl implements QueueProducerService {

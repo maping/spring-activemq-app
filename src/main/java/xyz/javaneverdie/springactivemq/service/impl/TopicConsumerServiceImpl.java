@@ -1,4 +1,4 @@
-package xyz.javaneverdie.springactivemq.service;
+package xyz.javaneverdie.springactivemq.service.impl;
 
 import javax.jms.Message;
 
@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.jms.support.converter.MessageConverter;
 import org.springframework.stereotype.Service;
+import xyz.javaneverdie.springactivemq.service.TopicConsumerService;
 
 @Service
 public class TopicConsumerServiceImpl implements TopicConsumerService {

@@ -5,7 +5,7 @@ import org.springframework.context.support.AbstractApplicationContext;
 
 import xyz.javaneverdie.springactivemq.config.SpringConfig;
 import xyz.javaneverdie.springactivemq.service.QueueProducerService;
-import xyz.javaneverdie.springactivemq.service.QueueProducerServiceImpl;
+import xyz.javaneverdie.springactivemq.service.impl.QueueProducerServiceImpl;
 
 public class QueueProducerApp {
 

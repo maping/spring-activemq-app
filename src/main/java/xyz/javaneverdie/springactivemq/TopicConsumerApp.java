@@ -5,7 +5,7 @@ import org.springframework.context.support.AbstractApplicationContext;
 
 import xyz.javaneverdie.springactivemq.config.SpringConfig;
 import xyz.javaneverdie.springactivemq.service.TopicConsumerService;
-import xyz.javaneverdie.springactivemq.service.TopicConsumerServiceImpl;
+import xyz.javaneverdie.springactivemq.service.impl.TopicConsumerServiceImpl;
 
 public class TopicConsumerApp {
 
