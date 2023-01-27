@@ -101,3 +101,9 @@ $ mvn clean package
 ## 4. Run application
 使用 Netbeans 打开应用目录，然后右键 .java，选择 Run File
 
+## 参考
+- [尚硅谷 Spring4 教程 - 杨博超](https://www.youtube.com/watch?v=8e1v8QlHNyQ&list=PLmOn9nNkQxJF-fc4G_qDR7OWgBEOV9MIR&index=1)
+- [尚硅谷 SpringMVC 教程 - 杨博超](https://www.bilibili.com/video/BV1o34y1D7PB)
+- [尚硅谷 Spring + SpringMVC + MyBatis 教程 - 杨博超](https://www.bilibili.com/video/BV1Ya411S7aT)
+
+
